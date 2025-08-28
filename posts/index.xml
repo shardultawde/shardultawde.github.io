@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Shardul Tawde</title>
+        <link>https://example.org/posts/</link>
+        <description>All Posts | Shardul Tawde</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Thu, 28 Aug 2025 19:48:06 &#43;0530</lastBuildDate><atom:link href="https://example.org/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Why did I start this blog?</title>
+    <link>https://example.org/posts/my-first-post/</link>
+    <pubDate>Thu, 28 Aug 2025 19:48:06 &#43;0530</pubDate><author>
+        <name>Author</name>
+    </author><guid>https://example.org/posts/my-first-post/</guid>
+    <description><![CDATA[<h2 id="why-did-i-start-this-blog" class="headerLink">
+    <a href="#why-did-i-start-this-blog" class="header-mark"></a>Why did I start this blog?</h2><p>I need to contemplate my existence and do something</p>]]></description>
+</item></channel>
+</rss>
